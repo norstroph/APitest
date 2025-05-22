@@ -1,6 +1,7 @@
 # ALLpersonaApi
 
-## endpoint de base "https://gist.githubusercontent.com/norstroph/d0189fc52fac0d2706b3c5c52e156950/raw/3e53272d9bc388f9823afbb739afc2d4e005bbef/{endpoint}"
+## endpoint de base 
+ "https://gist.githubusercontent.com/norstroph/d0189fc52fac0d2706b3c5c52e156950/raw/3e53272d9bc388f9823afbb739afc2d4e005bbef/{endpoint}"
 L’endpoint finit toujours par ".json". 
 Vous pouvez retrouver votre persona avec votre ID en modifiant votre endpoint par votre "id.json".
 
