@@ -1,14 +1,13 @@
 # ALLpersonaApi
 
 ## endpoint de base "https://gist.githubusercontent.com/norstroph/d0189fc52fac0d2706b3c5c52e156950/raw/3e53272d9bc388f9823afbb739afc2d4e005bbef/{endpoint}"
-endpoint fini toujours par ".json"  
-vous pouvez retrouver votre persona avec votre id.  
-en modifien votre enpoint part votre id  
+L’endpoint finit toujours par ".json". 
+Vous pouvez retrouver votre persona avec votre ID en modifiant votre endpoint par votre "id.json".
 
-## tous les persona
+## tous les Personas
 "https://gist.githubusercontent.com/norstroph/d0189fc52fac0d2706b3c5c52e156950/raw/3e53272d9bc388f9823afbb739afc2d4e005bbef/allPersona.json"  
 
-si vous le voulez vous pouvez donner des sugestion  
+Si vous le souhaitez, vous pouvez donner des suggestions.  
 
 /*************************************************************************************************************/
 # Mini apimots  
